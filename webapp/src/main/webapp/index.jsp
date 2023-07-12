@@ -13,6 +13,9 @@ padding: 10px 0;
 <body>
 <form>
 <div>
+<h1>Register</h1>
+<p>Please fill in this form to create an account.</p
+>
 <label>Name</label> 
 <input type="text" placeholder="Enter Name" name="name" required> 
 </div>
