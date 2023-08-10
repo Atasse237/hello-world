@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+i<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -111,10 +111,10 @@ span.price {
 </head>
 <body>
 
-<h2>Responsive Checkout 2023 Form</h2>
+<h2>Responsive Checkout Form made by Andre_tasse</h2>
 <p>Resize the browser window to see the effect. When the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other.</p>
 <div class="row">
-  <div class="col-75">
+  <div class="col-75"> 
     <div class="container">
       <form action="/action_page.php">
       
