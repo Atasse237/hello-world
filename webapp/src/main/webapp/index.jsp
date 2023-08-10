@@ -111,7 +111,7 @@ span.price {
 </head>
 <body>
 
-<h2>Responsive Checkout Form made by Andre_Tasse</h2>
+<h2>Responsive Checkout Form made by Andre</h2>
 <p>Resize the browser window to see the effect. When the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other.</p>
 <div class="row">
   <div class="col-75"> 
@@ -144,7 +144,7 @@ span.price {
 
           <div class="col-50">
             <h3>Payment</h3>
-            <label for="fname">Accepted Cards</label>
+            <label for="fname">Accepted Cards and Cash</label>
             <div class="icon-container">
               <i class="fa fa-cc-visa" style="color:navy;"></i>
               <i class="fa fa-cc-amex" style="color:blue;"></i>
