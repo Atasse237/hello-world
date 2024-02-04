@@ -111,7 +111,7 @@ span.price {
 </head>
 <body>
 
-<h2>Responsive Checkout Form made by Andre_Tasse</h2>
+<h2>Responsive Checkout Form made by Andre_Tasse for 2024/205</h2>
 <p>Resize the browser window to see the effect. When the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other.This is for learning propurse for my Devops project</p>
 <div class="row">
   <div class="col-75"> 
